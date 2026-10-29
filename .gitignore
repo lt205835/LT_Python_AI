@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# 课程大文件：视频、PPT、资料、安装包
+**/视频/
+**/PPT/
+**/资料/
+**/讲义/
+*.mp4
+*.pptx
+*.exe
+*.zip
+
 # Distribution / packaging
 .Python
 build/
